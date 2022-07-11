@@ -8,18 +8,20 @@
   <img src="https://img.shields.io/badge/telegram-%40Sergey__Shabanov-blue?style=for-the-badge&logo=appveyor">
 </div>
 
-### Hi there 👋
+<div align="center">
+  ### Hi there 👋
+</div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" width="500" height="375"/>
 </div>
 
-### :computer: Нмного фактов обо мне:
-Я frontend разработчик <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="30"> живу и работаю в Москве.
+### :computer: Нeмного фактов обо мне:
+Я начинающий веб-разработчик <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="30"> живу и работаю в Москве.
 - На данный момент работаю инженером :office_worker:
-- Работаю над собой чтобы стать хорошим специалистом :student:
+- Работаю над собой чтобы стать хорошим веб-разработчиком :student:
 - Прохожу обучение на курсах Я.Практикума :scroll:
-- В свободное время изучаю английский, читаю изучаю документацию :nerd_face:
+- В свободное время изучаю английский, изучаю документацию :nerd_face:
 - Связаться со мной :mailbox_with_mail: [![Linkedin Badge](https://img.shields.io/badge/-sergei-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
 ---
