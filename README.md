@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div id="header" align="left">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" width="80px"/>
+  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="80px"/>
 </div>
 
 <div id="badges">
