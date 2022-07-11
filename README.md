@@ -22,6 +22,18 @@
 - В свободное время изучаю английский, читаю изучаю документацию :nerd_face:
 - Связаться со мной :mailbox_with_mail: [![Linkedin Badge](https://img.shields.io/badge/-sergei-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
+---
+
+:toolbox: стек технологий, которые я изучаю:
+<div>
+  <img src"https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40">
+  <img src"https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40" height="40">
+  <img src"https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40">
+  <img src"https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="40" height="40">
+  <img src"https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="40" height="40">
+</div>
+
 
 <div id="footer" align="left">
   <img src="https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif" width="100"/>
