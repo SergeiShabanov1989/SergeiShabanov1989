@@ -1,13 +1,17 @@
 ### Hi there 👋
 
 <div id="header" align="left">
-  <img src="https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif" width="100"/>
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" width="80px"/>
 </div>
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/sergei-shabanov-018914244/" target="_blank">
+  <a href="https://www.linkedin.com/in/sergei-shabanov-018914244/">
     <img src="https://img.shields.io/badge/-LinkedIn%20-blue">
   </a>
+</div>
+
+<div id="footer" align="left">
+  <img src="https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif" width="100"/>
 </div>
 
 <!--
