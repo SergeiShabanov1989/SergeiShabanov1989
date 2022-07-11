@@ -7,11 +7,10 @@
   </a>
   <img src="https://img.shields.io/badge/telegram-%40Sergey__Shabanov-blue?style=for-the-badge&logo=appveyor">
 </div>
----
+
 <div align="center">
   <h1>Hi there 👋</h1>
 </div>
----
 
 <div align="center">
   <img src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" width="500" height="375"/>
