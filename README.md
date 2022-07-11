@@ -3,7 +3,7 @@
 <div id="header" align="center">
   <img src="https://avatanplus.com/files/resources/mid/5690ba4e2fdab1522557c174.jpg" width="100"/>
 </div>
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/sergei-shabanov-018914244/">
     <img src="https://img.shields.io/badge/-LinkedIn%20-blue">
   </a>
