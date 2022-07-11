@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/sergei-shabanov-018914244/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <img src="https://img.shields.io/badge/telegram-%40Sergey__Shabanov-blue">
+  <img src="https://img.shields.io/badge/telegram-%40Sergey__Shabanov-blue?style=for-the-badge&logo=appveyor">
 </div>
 
 ### Hi there 👋
