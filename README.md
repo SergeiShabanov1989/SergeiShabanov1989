@@ -4,6 +4,12 @@
   <img src="https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif" width="100"/>
 </div>
 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/sergei-shabanov-018914244/">
+    <img src="https://img.shields.io/badge/-LinkedIn%20-blue">
+  </a>
+</div>
+
 <!--
 **SergeiShabanov1989/SergeiShabanov1989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
