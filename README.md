@@ -22,11 +22,11 @@
 - Работаю над собой чтобы стать хорошим веб-разработчиком :student:
 - Прохожу обучение на курсах Я.Практикума :scroll:
 - В свободное время изучаю английский, изучаю документацию :nerd_face:
-- Связаться со мной :mailbox_with_mail: [![Linkedin Badge](https://img.shields.io/badge/-sergei-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- Связаться со мной :mailbox_with_mail: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
 ---
 
-:toolbox: стек технологий, который я изучаю:
+:toolbox: Cтек технологий, который я изучаю:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -36,6 +36,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJs" alt="NodeJs" width="40" height="40"/>&nbsp;
 </div>
 
+---
 
 <div id="footer" align="left">
   <img src="https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif" width="100"/>
