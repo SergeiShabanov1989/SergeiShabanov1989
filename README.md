@@ -20,7 +20,7 @@
 - Работаю над собой чтобы стать хорошим специалистом :student:
 - Прохожу обучение на курсах Я.Практикума :scroll:
 - В свободное время изучаю английский, читаю изучаю документацию :nerd_face:
-- Связаться со мной :mailbox_with_mail: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- Связаться со мной :mailbox_with_mail: [![Linkedin Badge](https://img.shields.io/badge/-sergei-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
 
 <div id="footer" align="left">
