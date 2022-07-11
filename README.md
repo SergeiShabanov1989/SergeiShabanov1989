@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div id="header" align="center">
-  <img src="https://avatanplus.com/files/resources/mid/5690ba4e2fdab1522557c174.jpg" width="100"/>
+  <img src="https://avatanplus.com/files/resources/mid/5690ba4e2fdab1522557c174.jpg" height="100"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/sergei-shabanov-018914244/">
