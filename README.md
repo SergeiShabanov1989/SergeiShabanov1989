@@ -14,7 +14,10 @@
 </div>
 
 ### :computer: Нмного фактов обо мне:
-- Я учусь на вебразработчика <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="30">
+Я frontend разработчик <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="30"> живу и работаю в Москве.
+- Работаю над собой чтобы стать хорошим специалистом :student:
+- Прохожу обучение на курсах Я.Практикума :scroll:
+- В свободное время изучаю английский, читаю изучаю документацию :nerd_face:
 
 
 <div id="footer" align="left">
