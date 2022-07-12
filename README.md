@@ -40,6 +40,8 @@
 
 :stars: Статистика:
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sergeishabanov1989&theme=dark&background=000000)](https://git.io/streak-stats)
+
 ---
 
 <div id="footer" align="left">
