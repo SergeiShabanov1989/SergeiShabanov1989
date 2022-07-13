@@ -22,7 +22,7 @@
 - А также работаю над собой чтобы стать хорошим веб-разработчиком :student:
 - Прохожу обучение на курсах Я.Практикума :scroll:
 - В свободное время изучаю английский, изучаю документацию :nerd_face:
-- Связаться со мной :mailbox_with_mail: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- Связаться со мной :mailbox_with_mail: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sergei-shabanov-018914244)
 
 ---
 
