@@ -19,6 +19,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <img src="https://img.shields.io/badge/telegram-%40Sergey__Shabanov-blue?style=for-the-badge&logo=appveyor">
+  <img src="https://img.shields.io/badge/email-%20sergey__shabanov%40me.com-blue?style=for-the-badge&logo=appveyor""
 </div>
 
 ---
