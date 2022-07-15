@@ -1,13 +1,3 @@
-<div id="header" align="center">
-  <img src="https://avatanplus.com/files/resources/mid/5690ba4e2fdab1522557c174.jpg" height="100"/>
-</div>
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/sergei-shabanov-018914244/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <img src="https://img.shields.io/badge/telegram-%40Sergey__Shabanov-blue?style=for-the-badge&logo=appveyor">
-</div>
-
 <div align="center">
   <h1>Hi there 👋</h1>
 </div>
@@ -22,7 +12,14 @@
 - А также работаю над собой чтобы стать хорошим веб-разработчиком :student:
 - Прохожу обучение на курсах Я.Практикума :scroll:
 - В свободное время изучаю английский, изучаю документацию :nerd_face:
-- Связаться со мной :mailbox_with_mail: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sergei-shabanov-018914244)
+- Связаться со мной :mailbox_with_mail:
+
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/sergei-shabanov-018914244/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <img src="https://img.shields.io/badge/telegram-%40Sergey__Shabanov-blue?style=for-the-badge&logo=appveyor">
+</div>
 
 ---
 
