@@ -19,13 +19,13 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <img src="https://img.shields.io/badge/telegram-%40Sergey__Shabanov-blue?style=for-the-badge&logo=appveyor">
-  <img src="https://img.shields.io/badge/email-%20sergey__shabanov%40me.com-blue?style=for-the-badge&logo=appveyor""
+  <img src="https://img.shields.io/badge/email-%20sergey__shabanov%40me.com-blue?style=for-the-badge&logo=apple""
 </div>
 
 ---
 
 :toolbox: Cтек технологий, который я изучаю:
-<div>
+<div align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
