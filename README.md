@@ -46,4 +46,3 @@
 <div id="footer" align="left">
   <img src="https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif" width="100"/>
 </div>
-:fire:
