@@ -9,7 +9,6 @@
 ### :computer: Нeмного фактов обо мне:
 Я начинающий веб-разработчик <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="30"> живу и работаю в Москве.
 - На данный момент работаю как Web Publisher at Kaspersky :office_worker:
-- А также работаю над собой чтобы стать хорошим веб-разработчиком :student:
 - Прохожу обучение на курсах Я.Практикума :scroll:
 - В свободное время изучаю английский, изучаю документацию :nerd_face:
 - Связаться со мной :mailbox_with_mail:
