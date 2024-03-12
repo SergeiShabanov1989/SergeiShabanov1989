@@ -35,14 +35,6 @@
 
 ---
 
-:stars: Статистика:
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sergeishabanov1989&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergeishabanov1989&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 <div id="footer" align="left">
   <img src="https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif" width="100"/>
 </div>
-:fire:
