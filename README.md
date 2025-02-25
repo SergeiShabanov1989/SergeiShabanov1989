@@ -7,8 +7,7 @@
 </div>
 
 ### :computer: Нeмного фактов обо мне:
-Я начинающий веб-разработчик <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="30"> живу и работаю в Москве.
-- На данный момент работаю как Web Publisher :office_worker:
+Я начинающий разработчик :office_worker: <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="30"> живу и работаю в Москве.
 - В свободное время изучаю английский, изучаю документацию :nerd_face:
 - Связаться со мной :mailbox_with_mail:
 
